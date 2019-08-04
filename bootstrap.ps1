@@ -3,3 +3,4 @@ $url = "https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/Miniconda3-lates
 $file = "miniconda.exe"
 $downloader = new-object System.Net.WebClient
 $downloader.DownloadFile($url, $file)
+miniconda.exe /S /AddToPath=1 /InstallationType=AllUsers
