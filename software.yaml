@@ -1,3 +1,5 @@
 # freeware list
 rstudio:
   url: http://sqdownb.onlinedown.net/down/rstudio.zip
+r:
+  url: https://mirrors.tuna.tsinghua.edu.cn/CRAN/bin/windows/base/R-3.6.1-win.exe
